@@ -1,4 +1,16 @@
-# Getting Started with Create React App
+# Projeto Organo
+
+Projeto criado no curso de "React: desenvolvimento com Javascript" da Alura
+
+## Site
+
+url: https://matheusbalves.github.io/organo
+
+### 🛠 Tecnologias
+
+- [React](https://pt-br.reactjs.org/)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
